@@ -1,32 +1,93 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# 👋 Hi, I’m Jomel Reyes
 
+🚀 **Flutter & Web Application Developer**  
+I build modern **web and mobile applications** using Flutter, Dart, and web technologies like PHP, MySQL, and Bootstrap.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 👨‍💻 About Me
 
-(* = not included)
+I’m a developer with hands-on experience in **full-stack web development** and **Flutter application development**.  
+I enjoy building real-world applications, integrating backend services, and deploying projects to production.
 
-AJ
-aj@lkn.io | @ajlkn
+- 💻 Web Development (PHP, MySQL, HTML, CSS, Bootstrap)
+- 📱 Flutter App Development (Web & Mobile)
+- ☁️ Backend as a Service using Supabase
+- 🚀 Deployment using Vercel
+- 🔧 Version Control with Git & GitHub
 
+---
 
-Credits:
+## 🛠 Technical Skills
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### 🌐 Web Development
+- PHP (Core PHP)
+- HTML5
+- CSS3
+- Bootstrap
+- MySQL
+- SQL
+- CRUD Operations
+- Authentication Systems
 
-	Icons:
-		Font Awesome (fontawesome.io)
+### 📱 Flutter & App Development
+- Flutter (Dart)
+- Flutter Web
+- Responsive UI Design
+- Form Handling
+- Image Uploads
+- State Management (Basic)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### 🗄 Backend & Tools
+- Supabase (Auth, Database, Storage)
+- PostgreSQL
+- REST APIs
+- Git & GitHub
+- Vercel Deployment
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 Flutter Blog Application
+**Tech Stack:** Flutter, Dart, Supabase, GitHub, Vercel
+
+- Full-stack Flutter Web Application
+- User Authentication (Register / Login / Logout)
+- Create, edit, and delete blog posts
+- Image uploads for blogs and comments
+- Supabase PostgreSQL database
+- Deployed using Vercel
+
+🔗 **Live Demo:** https://flutter-blog-app-nine.vercel.app/
+🔗 **Repository:** https://github.com/xnoy2/flutter-blog-app.git
+
+---
+
+### 🌐 Web-Based Systems (PHP & MySQL)
+**Tech Stack:** PHP, MySQL, HTML5, CSS3, Bootstrap
+
+- Developed database-driven web applications
+- Implemented CRUD operations
+- Designed relational databases using ERD
+- Built responsive UI using Bootstrap
+- Authentication and form validation
+
+---
+
+🧱 App Architecture
+Flutter UI ↓ Supabase Client ↓ PostgreSQL Database ↓ Supabase Storage (Images)
+
+📸 Screenshots
+image image image image image image
+🧠 What I Learned
+Flutter & Dart fundamentals
+Supabase authentication
+Image uploads & storage
+Full-stack Flutter development
+Flutter Web deployment
+👨‍💻 Author
+Jomel Reyes
+Flutter & Web Application Developer
+🌐 https://xnoy2.github.io/reyes-portfolio.github.io/
+
